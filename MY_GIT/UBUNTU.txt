@@ -1,0 +1,3 @@
+Well, we did it
+we learned the basics of linux
+Also learned to use git
