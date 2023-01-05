@@ -1,0 +1,4 @@
+https://wordpress.org/latest.zip
+https://downloads.joomla.org/cms/joomla3/3-8-5/Joomla_3-8-5-Stable-Full-Package.zip
+https://ftp.drupal.org/files/projects/drupal-8.4.5.zip
+
